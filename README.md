@@ -1,4 +1,3 @@
-# ![tiny_vm](tiny_rick.jpg){:height="50%" width="50%"}
+# ![tiny_vm](tiny_rick.jpg)
 
 Tiny VM in C
-
